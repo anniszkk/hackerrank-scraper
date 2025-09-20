@@ -1,0 +1,12 @@
+# Virtual Environment
+venv/
+
+# File Output
+*.csv
+
+# Cache Python
+__pycache__/
+
+# File Debug
+debug_*.png
+debug_*.html
