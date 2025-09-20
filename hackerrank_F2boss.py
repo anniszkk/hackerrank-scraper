@@ -14,9 +14,9 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 # ---------- KONFIGURASI ----------
-CONTEST_URL = "https://www.hackerrank.com/contests/praktikum-daspro-2025-minggu-3/leaderboard"
-USERNAME_PREFIX = "F2" 
-OUTPUT_CSV = "hasil_F2_lengkap.csv"
+CONTEST_URL = "https://www.hackerrank.com/contests/praktikum-daspro-2025-minggu-3/leaderboard" #ganti url aja
+USERNAME_PREFIX = "F2" #ganti lab
+OUTPUT_CSV = "hasil_F2_lengkap.csv" #nama file sesuain
 # -----------------------------------
 
 def start_driver(headless=True):
