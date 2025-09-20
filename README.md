@@ -1,5 +1,5 @@
 # Scraper Leaderboard HackerRank (khusus F2)
-MADE BY: ASPRAK DASPROO F2 UNDIP - ANNIS
+MADE BY: ASPRAK DASPROO'25 F2 UNDIP - ANNIS
 
 Ini adalah skrip Python yang berfungsi untuk melakukan *scraping* data dari leaderboard sebuah kontes di HackerRank dan menyimpannya ke dalam file CSV. Skrip ini dirancang untuk menargetkan dan mengambil data pengguna yang namanya diawali dengan prefix tertentu (contoh: "F2"). 
 
